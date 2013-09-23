@@ -1,6 +1,6 @@
 ristken-reusable
 ================
-Components:
+Controls:
 
 * table
 
